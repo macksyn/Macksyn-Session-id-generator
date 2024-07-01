@@ -58,20 +58,20 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 *_Pair Code Connected by UCHIHA CLAN*
-*_Made With 🚬🗿_*
+*_Made With Stress😂_*
 ______________________________________
 ╔════◇
-║ *『 AMAZING YOU'VE CHOSEN ITACHI UCHIHA 』*
-║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
+║ *『 SPONSERED BY DAVID CYRIl🙉🙈 』*
+║ _BELOW ARE THE FOLOWING Apk LINKs._
 ╚════════════════════════╝
 ╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com_
-║❒ *Owner:* _https://wa.me/2349066528353_
-║❒ *Repo:* _https://github.com/DeeCeeXxx/Itachi-Uchiha
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
+║  『••• D A V I D•••』
+║❒ *Sportify Premium Unlocked:* 
+║❒ *Twitter Premium Unlocked :* 
+║❒ *WhatsApp Unban:* 
+║❒WhatsApp Unban:* 
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
+║❒ *If you're done downloading / pairing please unlink*
 ╚════════════════════════╝
 _____________________________________
 
