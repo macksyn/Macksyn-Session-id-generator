@@ -57,23 +57,19 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by UCHIHA CLAN*
-*_Made With Stress😂_*
-______________________________________
-╔════◇
-║ *『 SPONSERED BY DAVID CYRIl🙉🙈 』*
-║ _BELOW ARE THE FOLOWING Apk LINKs._
-╚════════════════════════╝
-╔═════◇
-║  『••• D A V I D•••』
-║❒ *Sportify Premium Unlocked:* https://www.mediafire.com/file/gp99w4ij7p28eew/base_%25281%2529.apk/file 
-║❒ *Twitter Premium Unlocked :* https://www.mediafire.com/file/mhdm23oyfyqe6iz/base.apk/file
-║❒ *WhatsApp Unban:* 
-║❒WhatsApp Unban:* 
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
-║❒ *If you're done downloading / pairing please unlink*
-╚════════════════════════╝
-_____________________________________
+┏━━━━━━━━━━━━━━
+┃QUEEN_ANITA_V2 SESSION IS 
+┃SUCCESSFULLY
+┃CONNECTED ✅🔥
+┗━━━━━━━━━━━━━━━
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+❶ || Creator = 𖥘 DAVID CYRIL 𖥘
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+❸ || Owner = https://t.me/deecee_x
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+©*2024-2099 David Cyril*
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
