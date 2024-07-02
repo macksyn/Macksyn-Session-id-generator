@@ -59,22 +59,19 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Session Connected By David_Cyril*
-*_Made With 🤍_*
-______________________________________
-╔════◇
-║ *『 AMAZING YOU'VE CHOSEN ITACHI UCHIHA 』*
-║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
-╚════════════════════════╝
-╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com
-║❒ *Owner:* https://wa.me/2349066528353_
-║❒ *Repo:* _https://github.com/DeeCeeXxx_
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
-║❒ *Plugins:* _https://github.com/Itxxwasi 
-╚════════════════════════╝
+┏━━━━━━━━━━━━━━
+┃QUEEN_ANITA_V2 SESSION IS 
+┃SUCCESSFULLY
+┃CONNECTED ✅🔥
+┗━━━━━━━━━━━━━━━
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+❶ || Creator = 𖥘 DAVID CYRIL 𖥘
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+❸ || Owner = https://t.me/deecee_x
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+©*2024-2099 David Cyril*
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
