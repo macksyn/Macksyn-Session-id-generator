@@ -13,13 +13,42 @@
       height: 100vh;
       margin: 0;
       background: linear-gradient(135deg, #000000, #434343);
+      overflow: hidden;
       font-family: Arial, sans-serif;
+    }
+
+    .rain {
+      position: absolute;
+      width: 1px;
+      height: 100%;
+      background: transparent;
+      overflow: hidden;
+      z-index: -1;
+    }
+
+    .rain:before {
+      content: '';
+      position: absolute;
+      top: -100%;
+      left: 50%;
+      width: 2px;
+      height: 30%;
+      background: rgba(255, 255, 255, 0.5);
+      box-shadow: 0 0 8px rgba(255, 255, 255, 0.8);
+      animation: rain 0.5s linear infinite;
+    }
+
+    @keyframes rain {
+      to {
+        transform: translateY(100vh);
+      }
     }
 
     .container {
       display: flex;
       flex-direction: column;
       align-items: center;
+      z-index: 1;
     }
 
     .box {
@@ -137,6 +166,7 @@
   </style>
 </head>
 <body>
+  <div class="rain"></div>
   <div class="container">
     <div class="main">
       <div class="box" id="box">
@@ -212,6 +242,18 @@
         a.innerHTML = '<font id="copy" onclick="Copy()" style="color:red;font-weight:bold" size="5">CODE: <span style="color:white;font-weight:bold">' + code + '</span></font><br><br><br>';
       }
     });
+
+    function createRain() {
+      const rain = document.querySelector('.rain');
+      for (let i = 0; i < 100; i++) {
+        const drop = document.createElement('div');
+        drop.style.left = `${Math.random() * 100}vw`;
+        drop.style.animationDelay = `${Math.random() * 2}s`;
+        rain.appendChild(drop);
+      }
+    }
+
+    createRain();
   </script>
 </body>
 </html>
