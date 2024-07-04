@@ -69,7 +69,7 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❸ || Owner = https://t.me/deecee_x
+Please Follow My Support Channel
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-2099 David Cyril*
 _____________________________________
