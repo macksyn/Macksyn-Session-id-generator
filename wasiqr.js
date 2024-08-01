@@ -60,18 +60,18 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃QUEEN_ANITA_V2 SESSION IS 
-┃SUCCESSFULLY
-┃CONNECTED ✅🔥
+┃Lussh AI SESSION ID
+┃Generated
+┃Succerssfully ✅
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 DAVID CYRIL 𖥘
+❶ || Made By = 𖥘 MACKSYN INC 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
+❷ || WhattsApp Channel = https://www.whatsapp.com/channel/0029Vad8fY6HwXbB83yLIx2n
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Please Follow My Support Channel
+Proudly 🇳🇬
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 David Cyril*
+©*2024 Alex Macksyn*
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
